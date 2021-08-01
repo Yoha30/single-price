@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Poppins;
+    src: url(Poppins-Regular.ttf);
+}
+body{
+    font-family:Poppins;
+
+}
+#bg-color{
+    background:hsl(193, 100%, 96%);
+    background-image: url("images/bg-hero-desktop.svg");
+}
+footer{
+background: #00252E;
+}
